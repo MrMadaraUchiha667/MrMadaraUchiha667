@@ -129,9 +129,3 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 - [Grasshopper - (08/04/2022)](./certs)
 - [Grid Garden - (01/09/2023)](./certs)
 - [HackerSec - (??/??/????)](./certs)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
-<p align="center"> 
-  Contador de Visitantes<br>
-  <img src="https://profile-counter.glitch.me/MrMadaraUchiha667/count.svg" />
-</p>
