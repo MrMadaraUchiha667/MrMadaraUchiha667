@@ -32,11 +32,16 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
 ![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)
 
-## Certificações
+## Desenvolvimento de Games
 
-- [Grasshopper - (08/04/2022)](./certs)
-- [Grid Garden - (01/09/2023)](./certs)
-- [HackerSec - (??/??/????)](./certs)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-CD412B?style=for-the-badge)
+![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge)
+![SA-MP](https://img.shields.io/badge/SA--MP-FF7A00?style=for-the-badge)
+![Ragnarok](https://img.shields.io/badge/Ragnarok-6D9EEB?style=for-the-badge)
+![Metin2](https://img.shields.io/badge/Metin2-8B0000?style=for-the-badge)
+![MU Online](https://img.shields.io/badge/MU_Online-5A2D82?style=for-the-badge)
+![Habbo](https://img.shields.io/badge/Habbo-F7A600?style=for-the-badge)
 
 ## Plataformas de Prototipagem
 
@@ -118,6 +123,16 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
+## Outros
+
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+## Certificações
+
+- [Grasshopper - (08/04/2022)](./certs)
+- [Grid Garden - (01/09/2023)](./certs)
+- [HackerSec - (??/??/????)](./certs)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 <p align="center"> 
