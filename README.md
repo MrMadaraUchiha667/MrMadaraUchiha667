@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff93a4&height=120&section=header"/>
 
-![Profile](https://raw.githubusercontent.com/MrMadaraUchiha6/MrMadaraUchiha6/main/images/profile.gif)
+![Profile](https://raw.githubusercontent.com/MrMadaraUchiha667/MrMadaraUchiha667/main/images/profile.gif)
 
 # Bem-vindo ao meu perfil no GitHub!
 
