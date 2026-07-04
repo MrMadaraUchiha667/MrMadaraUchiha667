@@ -117,6 +117,6 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 - [Grasshopper - (08/04/2022)](./certs)
 - [Grid Garden - (01/09/2023)](./certs)
 - [FreeCodeCamp - Fundamentals of C# - (08/06/2026)](./certs)
-- [DevEmDobro - (06/07/2026)](./certs)
+- [DevEmDobro - (??/??/????)](./certs)
 - [HackerSec - (??/??/????)](./certs)
 
