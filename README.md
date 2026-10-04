@@ -119,5 +119,7 @@ Olá, sou Thales Maggot, mais conhecido como MrMadara. Sou um entusiasta da tecn
 - [FreeCodeCamp - Fundamentals of C# - (08/06/2026)](./certs)
 - [DevEmDobro - (05/07/2026)](./certs)
 - [AmigosCode - Git & Github (12/07/2026)](./certs)
+- [Santander Open Academy - Python (02/10/2026)](./certs)
 - [HackerSec - (??/??/????)](./certs)
+
 
