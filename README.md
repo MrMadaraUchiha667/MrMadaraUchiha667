@@ -241,6 +241,7 @@ Se você tem uma ideia, projeto ou simplesmente quer trocar conhecimento, **sint
 - [DevEmDobro - (05/07/2026)](./certs)
 - [AmigosCode - Git & Github (12/07/2026)](./certs)
 - [Santander Open Academy - Python (02/10/2026)](./certs)
+- [Minecraft Education - (10/10/2026)](./certs)
 - [HackerSec - (??/??/????)](./certs)
 
 ### 💬 "Transformando ideias em código, servidores e soluções."
